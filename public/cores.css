@@ -1,0 +1,27 @@
+/*CSS reset*/
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    /*
+        Definir a cor do texto utilizando RGB
+    */
+    color: rgb(120, 192, 145);
+}
+
+div{
+    background: #004d8e;
+}
+
+a{
+    color: #FFFFFF;
+    /*text-decoration altera a decoração do texto none faz com que o texto não tenha nenhuma decoração*/
+    text-decoration: none;
+}
+
+/*hove é a ação que ocorre quando passar o mouse por cima do elemento*/
+a:hover{
+    color: #ff6500;
+}
