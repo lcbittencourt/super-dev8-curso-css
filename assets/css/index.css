@@ -1,0 +1,67 @@
+h1{
+    color: rgb(77, 20, 131);
+    font-size: 50px;
+    text-align: center;
+}
+body{
+    background-image: url(https://arquivo.devmedia.com.br/marketing/img/guia-css-38149.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#botao-1{
+    background-color: rgb(228, 214, 10);
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+#botao-2{
+    background-color: rgb(10, 228, 153);
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+#botao-3{
+    background-color: rgb(199, 111, 233);
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+#botao-4{
+    background-color: rgb(187, 104, 104);
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+a{
+    text-decoration: none;
+    color: #000
+    cursor: pointer;
+}
